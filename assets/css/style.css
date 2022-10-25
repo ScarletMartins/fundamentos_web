@@ -1,0 +1,64 @@
+.center{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu li {
+    display: inline;
+    padding: 30px;
+}
+
+.center a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.menu li a:hover{
+    color: #E76F51;
+    text-decoration: underline;
+}
+
+.tm-social{
+    width: 30px;
+    height: 30px;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.bk-color{
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.ml-50{
+    margin-left: 50px;
+}
+
+.mr-50{
+    margin-right: 50px;;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.hw-d{
+    height: 150px;
+    width: 150px;
+}
