@@ -31,16 +31,28 @@
 }
 
 .tm-social{
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
 }
 
 .p-30{
     padding: 30px;
 }
 
-.bk-color{
-    background-color: antiquewhite;
+.p-20{
+    padding: 20px;
+}
+
+.bk-color-contato{
+    background-image: url("https://i.pinimg.com/originals/35/70/52/357052615e7ca277fbec628e9d6b9407.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.bk-color-viagens{
+    background-image: url("https://i.pinimg.com/736x/8b/48/aa/8b48aa0a485e4905c171742ddb126665.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -48,6 +60,10 @@
 
 .ml-50{
     margin-left: 50px;
+}
+
+.mr-150{
+    margin-right: 150px;;
 }
 
 .mr-50{
@@ -61,4 +77,8 @@
 .hw-d{
     height: 150px;
     width: 150px;
+}
+
+#avatar {
+    height: 120px;
 }
